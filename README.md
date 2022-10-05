@@ -1,2 +1,2 @@
-# kodluyoruz-nodeJS
- backend nodeJS course practise
+# nodeJS-Studies
+ - Repository for NodeJS studies.
